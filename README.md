@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deponker
+- 👋 Hi, I’m @Deponker Sarker Dipto
 - 👀 I’m interested in Artificial Intelligence, Neural Networks, Machine Learning, Web Development, Software Engineering
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on neural networks, machine learning, web development, software engineering
